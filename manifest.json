@@ -1,0 +1,18 @@
+{
+  "Group": "DeepCanionStudio",
+  "Name": "CityOfTheMachine",
+  "Version": "1.0.0",
+  "Description": "Adds a new fragment of a sci-fi megastructure complex",
+  "Authors": [
+    {
+      "Name": "DeepCanionStudio",
+      "Email": "deepcanionstudio@gmail.com",
+      "Url": "https://www.youtube.com/@deepcanionstudio"
+    }
+  ],
+  "Website": "https://www.youtube.com/@deepcanionstudio",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
